@@ -4,6 +4,7 @@ Particle tracking using cameras (and depth cameras like the kinect) for the part
 # Milestones/tasks
 
 - [Selection of python library for the kinect](/../../issues/1)
+- [https://pypi.org/project/pyopencv/](/../../issues/2)
 
 # Cameras
 - For general tracking, we'll try kinect v2 as they're cheap in pawn shops right now, and only need 5 mins to mod for PC use.
